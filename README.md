@@ -1,16 +1,43 @@
-## Hi there 👋
+Hi 👋 My name is Gustavo Hackime Costa
+========================
 
-<!--
-**IAmIndex/IAmIndex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+But you can call me *index*
+---------------------------
 
-Here are some ideas to get you started:
+I started my journey in early 2020 by developing small projects on ROBLOX, and to be honest, I never really created anything serious. However, I learned a lot about programming during that time, mostly as a self-taught learner. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+In 2022, I began studying in-depth with qualified teachers through an associate degree in Informatics. During that time, I learned languages like PHP, JavaScript, and other web-related frameworks, such as Node.js. 
+
+What am I doing now and what do I aim for?
+--------------------
+
+In 2025, I enrolled in college for a Computer Science major, and I'm on track to graduate in 2028! Besides that, I have been creating several small projects to get used to game development. They're just small mechanics that I thought would be cool to make, like a highly customizable weapon for tower defense games (or any game, really. I like to make things as flexible as possible).
+
+So, as you might've guessed by now, I aim to become a game dev, creating my games and giving a breathing room from the frantic daily life of a human. I just love how games give you the freedom to do anything you'd like, and that's what drives me to make them as meaningful and full of things to explore as possible to the player!
+
+* 🌍  I'm based in São Paulo, Brazil
+* ✉️  You can contact me at [gustavohackime@gmail.com](mailto:gustavohackime@gmail.com)
+* 🧠  I'm learning the basics of Computer Science
+* ⚡  I learn things pretty fast
+
+### Skills
+
+
+<p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+</p>
+
+
+### Socials
+
+<p align="left"> <a href="https://www.github.com/IAmIndex" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/gustavo-hackime-costa" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/IAmIndex"><img src="https://github-readme-stats.vercel.app/api?username=IAmIndex&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="IAmIndex's GitHub stats" /></a>
+
+<a href="http://www.github.com/IAmIndex"><img src="https://github-readme-streak-stats.herokuapp.com/?user=IAmIndex&stroke=ffffff&background=1c1917&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="https://github.com/IAmIndex" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IAmIndex&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
