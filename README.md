@@ -15,6 +15,8 @@ In 2025, I enrolled in college for a Computer Science major, and I'm on track to
 
 So, as you might've guessed by now, I aim to become a game dev, creating my games and giving a breathing room from the frantic daily life of a human. I just love how games give you the freedom to do anything you'd like, and that's what drives me to make them as meaningful and full of things to explore as possible to the player!
 
+Other than that, I really like low-level programming, and have lots of fun coding in languages like C. I might be crazy, I don't know.
+
 * 🌍  I'm based in São Paulo, Brazil
 * ✉️  You can contact me at [gustavohackime@gmail.com](mailto:gustavohackime@gmail.com)
 * 🧠  I'm learning the basics of Computer Science
